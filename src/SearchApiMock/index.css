@@ -1,0 +1,24 @@
+.productMock {
+  /* display: flex; */
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+.productMock__container {
+  padding: 10px;
+}
+/* .table,
+th,
+td,
+tr {
+  border: 1px solid black;
+} */
+.productTCR {
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+}
+/* .productTable {
+  /* align-self: center; */
+} */
